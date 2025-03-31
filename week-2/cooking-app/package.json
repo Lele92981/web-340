@@ -1,0 +1,20 @@
+{
+    "name": "cooking-app",
+    "version": "1.0.0",
+    "description": "A simple cooking app",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: tester.js\" && exit 1"
+    },
+    "keywords": [
+      "cooking",
+      "app"
+    ],
+    "author": "Leah Thames",
+    "license": "ISC",
+
+  "script": {
+    "start": "node index.js",
+    "test": "echo \"Error: tester.js\" && exit 1"
+  }
+}
