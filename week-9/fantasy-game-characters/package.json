@@ -1,0 +1,22 @@
+{
+  "name": "fantasy-game-characters",
+  "version": "1.0.0",
+  "description": "game characters for fantasy game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  "start": "node src/game-characters.js",
+    "test": "jest --watchAll --verbose",
+    "done": "echo 'done'",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
